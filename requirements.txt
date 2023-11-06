@@ -1,7 +1,6 @@
 openai
 python-dotenv
 langchain
-langchain.memory
 requests
 playsound
 os
