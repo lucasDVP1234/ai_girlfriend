@@ -3,4 +3,3 @@ python-dotenv
 langchain
 requests
 playsound
-os
