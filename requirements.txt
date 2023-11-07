@@ -1,6 +1,5 @@
 openai
 python-dotenv
-langchain
+langchain==0.0.330
 requests
 playsound
-pydantic
